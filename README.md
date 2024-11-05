@@ -10,7 +10,7 @@
 
 <h2 align="center"> Dokumentasi Sentiment Analysis using Caikit and Hugging Face </h2> 
 
-- <strong>Sentiment Analysis</strong> seperti namanya menganalisis sentimen atau perasaan pada teks input prompt. Dari prompt yang diberikan akan diberikan label negatif atau positif juga akan memberikan suatu nilai kepercayaan. Pada bagian ini akan membicarakan tentang output dari hasil eksekusi program analisis sentimen yang menggunakan model.
+- <strong>Sentiment Analysis</strong> seperti namanya menganalisis sentimen atau perasaan pada teks input prompt. Dari prompt yang diberikan akan diberikan label negatif atau positif juga akan memberikan suatu nilai kepercayaan. Pada bagian ini akan membicarakan tentang output dari hasil eksekusi program analisis sentimen yang menggunakan model <a href="https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english">Hugging Face DistilBERT base uncased finetuned SST-2</a>.
 
 - <strong>I am not feeling well today!</strong>
   diberikan label negatif karena pada kalimat memiliki kata "not" yang dilanjuti "feeling" sehingga dari prompt tersebut model memberikan label negatif.
