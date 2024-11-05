@@ -1,0 +1,35 @@
+Text: I am not feeling well today!
+RESPONSE: classes {
+  class_name: "NEGATIVE"
+  confidence: 0.99977594614028931
+}
+
+Text: Today is a nice sunny day
+RESPONSE: classes {
+  class_name: "POSITIVE"
+  confidence: 0.999869704246521
+}
+
+Text: My dog is really cute
+RESPONSE: classes {
+  class_name: "POSITIVE"
+  confidence: 0.99980038404464722
+}
+
+Text: I'm graduating today
+RESPONSE: classes {
+  class_name: "POSITIVE"
+  confidence: 0.99884819984436035
+}
+
+Text: I like to game all night
+RESPONSE: classes {
+  class_name: "POSITIVE"
+  confidence: 0.99849557876586914
+}
+
+Text: He called in sick to work
+RESPONSE: classes {
+  class_name: "NEGATIVE"
+  confidence: 0.99843806028366089
+}
